@@ -442,3 +442,8 @@ body {
 .img-content {
     padding: 0px;
 }
+
+.link-anchor {
+    text-decoration: none;
+    padding: 10px;
+}
