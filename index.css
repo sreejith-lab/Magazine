@@ -474,14 +474,20 @@ body {
     flex-wrap: wrap;
     color: white;
     gap: 20px;
-    padding: 25px;
+    padding: 10px;
     font-weight: 700;
 }
 
 .box {
     flex: 200px;
-    padding: 25px;
+    padding: 15px;
     text-align: center;
     font-size: larger;
     border-radius: 12px;
+}
+
+.boxes2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
